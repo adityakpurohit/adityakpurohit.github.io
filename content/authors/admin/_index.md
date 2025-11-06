@@ -6,7 +6,7 @@ title: Aditya Kumar Purohit
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Aditya Kumar
+first_name: A.K
 last_name: Purohit
 
 # Pronouns (optional)
@@ -51,7 +51,7 @@ profiles:
 interests:
   - Digital Wellbeing
   - AI and Digital Health
-  - Social Media Systemms
+  - Social Media
  
 
 education:
@@ -170,4 +170,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Dr. Aditya Kumar Purohit is a human–computer interaction researcher whose work explores how technology can be designed to foster healthier, more trustworthy digital experiences. He is a Senior Researcher at the Center for Advanced Internet Studies (CAIS) in Bochum, Germany, where he contributes to the research program on "Trustworthy AI," focusing on innovative communication platforms, the impact of large language models on user interaction and society, and digital interventions that encourage mindful technology use.

@@ -56,15 +56,15 @@ interests:
 
 education:
   - area: PhD Information Systems (HCI Focus)
-    institution:University of Neuchâtel
+    institution: University of Neuchâtel
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Design, development and evaluation of digital nudges for digital wellbeing: An Experimental Approach Supervised by Prof. Adrian Holzer. Published 5 papers ( CHI, HICSS, AMCIS).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://libra.unine.ch/handle/20.500.14713/32506'
   - area: MS Marketing Psychology
     institution: Université Grenoble Alpes
     icon: ""

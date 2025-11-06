@@ -12,10 +12,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Research'
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Senior researcher specializing in digital wellbeing, AI and digital health'
+    twitter: 'adityakpurohit'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

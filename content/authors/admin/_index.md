@@ -44,9 +44,9 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=uTBxIT8AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-9766-6575
 
 interests:
   - Digital Wellbeing
@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: PhD Information Systems (HCI Focus)
-    institution: Neuchatel University
+    institution:University of Neuchâtel
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
@@ -65,8 +65,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MS Marketing Psychology
+    institution: Université Grenoble Alpes
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-05-31
@@ -75,7 +75,7 @@ education:
 
       Specialized in machine learning and robotics.
   - area: BS Computer Science
-    institution: MIT
+    institution: VTU
     icon: ""
     date_start: 2009-09-01
     date_end: 2013-05-31

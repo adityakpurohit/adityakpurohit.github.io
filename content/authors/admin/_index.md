@@ -37,12 +37,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:aditya.purohit@cais-research.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/adityakpurohit
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/adityakumarpurohit/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=uTBxIT8AAAAJ
   - icon: academicons/orcid

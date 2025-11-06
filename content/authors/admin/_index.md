@@ -35,7 +35,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:aditya.purohit@cais-research.de'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
@@ -49,14 +49,14 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Digital Wellbeing
+  - AI and Digital Health
+  - Social Media Systemms
+ 
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Information Systems (HCI Focus)
+    institution: Neuchatel University
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
